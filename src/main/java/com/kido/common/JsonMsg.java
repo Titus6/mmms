@@ -1,7 +1,6 @@
 package com.kido.common;
 
-import org.apache.commons.lang3.StringUtils;
-import com.alibaba.fastjson.JSONObject;
+
 /**
  * Created by lzflovechh on 2017/4/22.
  *

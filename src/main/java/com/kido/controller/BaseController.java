@@ -1,6 +1,7 @@
-package com.kido.common;
+package com.kido.controller;
 
 import com.alibaba.fastjson.JSONObject;
+import com.kido.common.ErrorCode;
 import org.apache.commons.lang3.StringUtils;
 
 public class BaseController {
